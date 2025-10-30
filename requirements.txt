@@ -1,0 +1,4 @@
+#ImageVerification Preprocessing
+Numpy
+cv2
+PIL
